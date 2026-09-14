@@ -32,13 +32,21 @@ Infrastructure →  Containerd · CICD · CMake · Linux/WSL
 
 ## 📌 Featured Projects
 
-### 🎨 **Kataglyphis-Inference-Engine** — Cross platform inference engine
-A lightweight, portable AI inference engine
-→ [github.com/Kataglyphis/Kataglyphis-Inference-Engine][2]
+### 🎨 **OmniAccelerANT** — Cross-platform inference app
+Deploy AI on Linux, Windows, iOS, Android and the web with native UI and fast inference.
+→ [github.com/Kataglyphis/OmniAccelerANT][7]
 
-### 🔗 **Kataglyphis-WebDavClient** — Developer Tools & Docs
+### 🚀 **BeschleunigerBallett** — C++23 / Vulkan acceleration playground
 Playground for making AI/Graphics workloads fast.  
-→ [github.com/Kataglyphis/Kataglyphis-BeschleunigerBallett][5]
+→ [github.com/Kataglyphis/BeschleunigerBallett][5]
+
+### 🐳 **ANTfrastructure** — Build images and shared CI tooling
+Multi-arch container images plus the actions, gates and scripts every repo above consumes.
+→ [github.com/Kataglyphis/ANTfrastructure][8]
+
+### 🐈 **WebDavClient** — Developer tools
+Download files and folders from your WebDAV storage automatically, e.g. in CI.
+→ [github.com/Kataglyphis/WebDavClient][9]
 
 👉 **[More projects on GitHub →][2]**
 
@@ -75,8 +83,11 @@ Playground for making AI/Graphics workloads fast.
 ---
 
 [1]: https://jonasheinle.de
-[2]: https://github.com/Kataglyphis/Kataglyphis-Inference-Engine
+[2]: https://github.com/Kataglyphis
 [3]: https://de.linkedin.com/in/jonas-heinle-0b2a301a0/en
 [4]: https://stackoverflow.com/users/7099847/jonas-jones-heinle
-[5]: https://github.com/Kataglyphis/Kataglyphis-BeschleunigerBallett
+[5]: https://github.com/Kataglyphis/BeschleunigerBallett
 [6]: https://www.instagram.com/jotrockenmitlocken/
+[7]: https://github.com/Kataglyphis/OmniAccelerANT
+[8]: https://github.com/Kataglyphis/ANTfrastructure
+[9]: https://github.com/Kataglyphis/WebDavClient
