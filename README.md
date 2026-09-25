@@ -33,7 +33,7 @@ Infrastructure →  Containerd · CICD · CMake · Linux/WSL
 ## 📌 Featured Projects
 
 ### 🎨 **OmniAccelerANT** — Cross-platform inference app
-Deploy AI on Linux, Windows, iOS, Android and the web with native UI and fast inference.
+Deploy AI on Linux, Windows, Android and the web with native UI and fast inference.
 → [github.com/Kataglyphis/OmniAccelerANT][7]
 
 ### 🚀 **BeschleunigerBallett** — C++23 / Vulkan acceleration playground
