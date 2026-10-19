@@ -50,6 +50,8 @@ Download files and folders from your WebDAV storage automatically, e.g. in CI.
 
 👉 **[More projects on GitHub →][2]**
 
+How all my repositories fit together: **[the map →][10]**
+
 ---
 
 ## 🎭 & 💻 Blending Performance with Engineering
@@ -91,3 +93,4 @@ Download files and folders from your WebDAV storage automatically, e.g. in CI.
 [7]: https://github.com/Kataglyphis/OmniAccelerANT
 [8]: https://github.com/Kataglyphis/ANTfrastructure
 [9]: https://github.com/Kataglyphis/WebDavClient
+[10]: https://github.com/Kataglyphis/ANTfrastructure/blob/develop/docs/repository-family.md
