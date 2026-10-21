@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://jonasheinle.de">
+    <img src="images/logo.svg" alt="Kataglyphis logo: a desert ant on a green badge" width="200" />
+  </a>
+</div>
+
 # ✨ Jonas Heinle
 
 > **Software Engineer** · **Open-Source Tinkerer** ·
