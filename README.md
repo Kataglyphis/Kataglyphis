@@ -58,6 +58,13 @@ Download files and folders from your WebDAV storage automatically, e.g. in CI.
 
 How all my repositories fit together: **[the map →][10]**
 
+### Dependency updates
+
+This profile repository uses the shared ANTfrastructure Renovate configuration for its workflow
+and submodule pins. From Linux or WSL, initialize `third_party/ANTfrastructure` and run
+`bash scripts/renovate-local.sh --apply`. Run without `--apply` to report available updates, or
+with `--apply --dry-run` to inspect the plan without writing.
+
 ---
 
 ## 🎭 & 💻 Blending Performance with Engineering
