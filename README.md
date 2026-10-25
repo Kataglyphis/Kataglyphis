@@ -50,9 +50,9 @@ How all my repositories fit together: **[the map →][10]**
 ### Dependency updates
 
 This profile repository uses the shared ANTfrastructure Renovate configuration for its workflow
-and submodule pins. From Linux or WSL, initialize `third_party/ANTfrastructure` and run
-`bash scripts/renovate-local.sh --apply`. Run without `--apply` to report available updates, or
-with `--apply --dry-run` to inspect the plan without writing.
+and submodule pins. From Linux or WSL, run `bash scripts/renovate-local.sh --apply`; it initializes
+the pinned hub if needed and updates direct submodules to their remote default tips. To report
+updates or preview with `--apply --dry-run` first, initialize the hub or use an existing checkout.
 
 ---
 
