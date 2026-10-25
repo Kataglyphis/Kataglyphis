@@ -38,21 +38,10 @@ Infrastructure →  Containerd · CICD · CMake · Linux/WSL
 
 ## 📌 Featured Projects
 
-### 🎨 **OmniAccelerANT** — Cross-platform inference app
-Deploy AI on Linux, Windows, Android and the web with native UI and fast inference.
-→ [github.com/Kataglyphis/OmniAccelerANT][7]
-
-### 🚀 **BeschleunigerBallett** — C++23 / Vulkan acceleration playground
-Playground for making AI/Graphics workloads fast.  
-→ [github.com/Kataglyphis/BeschleunigerBallett][5]
-
-### 🐳 **ANTfrastructure** — Build images and shared CI tooling
-Multi-arch container images plus the actions, gates and scripts every repo above consumes.
-→ [github.com/Kataglyphis/ANTfrastructure][8]
-
-### 🐈 **WebDavClient** — Developer tools
-Download files and folders from your WebDAV storage automatically, e.g. in CI.
-→ [github.com/Kataglyphis/WebDavClient][9]
+- 🎨 [**OmniAccelerANT**][7] — Inference app for Linux, Windows, Android and web.
+- 🚀 [**BeschleunigerBallett**][5] — C++23/Vulkan acceleration playground.
+- 🐳 [**ANTfrastructure**][8] — Multi-arch images and shared CI tools.
+- 🐈 [**WebDavClient**][9] — WebDAV downloads for CI and developer tools.
 
 👉 **[More projects on GitHub →][2]**
 
@@ -64,10 +53,6 @@ This profile repository uses the shared ANTfrastructure Renovate configuration f
 and submodule pins. From Linux or WSL, initialize `third_party/ANTfrastructure` and run
 `bash scripts/renovate-local.sh --apply`. Run without `--apply` to report available updates, or
 with `--apply --dry-run` to inspect the plan without writing.
-
----
-
-## 🎭 & 💻 Blending Performance with Engineering
 
 ---
 
