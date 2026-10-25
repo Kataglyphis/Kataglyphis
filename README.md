@@ -81,14 +81,10 @@ How all my repositories fit together: **[the map →][10]**
 | 🔧 **Stack Overflow** | [stackoverflow.com/users/7099847][4] |
 | 📸 **Instagram** | [@jotrockenmitlocken][6] |
 
----
-
 ## 🎯 Fun Facts
 
 - 🏋️ Gym enthusiast — my reset button between sprints and debugging sessions
 - 🐱 Cat person — petting cats is my favorite way to decompress
-
----
 
 [1]: https://jonasheinle.de
 [2]: https://github.com/Kataglyphis
