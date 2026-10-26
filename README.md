@@ -53,6 +53,7 @@ This profile repository uses the shared ANTfrastructure Renovate configuration f
 and submodule pins. From Linux or WSL, run `bash scripts/renovate-local.sh --apply`; it initializes
 the pinned hub if needed and updates direct submodules to their remote default tips. To report
 updates or preview with `--apply --dry-run` first, initialize the hub or use an existing checkout.
+On a Windows checkout run from WSL, the shared helper uses Windows Git for the checkout.
 
 ---
 
